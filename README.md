@@ -1,4 +1,4 @@
-# About this project.
+# About this repository.
 
 I own the copyright to this software.  
 I release this software under [the MIT license](LICENSE).  
@@ -15,5 +15,6 @@ I will list the additional assets needed below.
 This project is very old,  
 so you may need to modify some of it to fit the latest development environment.
 
-Thank you.  
-// Takashi
+# Remarks
+
+The name of the Unity project is `stack-toy-ar`.
