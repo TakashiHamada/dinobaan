@@ -1,7 +1,7 @@
 # About this project.
 
 I own the copyright to this software.  
-I release this software under the MIT license.  
+I release this software under [the MIT license](LICENSE).  
 Please feel free to use it.
 
 However, you must provide any third-party assets that you use.  
